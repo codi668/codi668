@@ -1,5 +1,5 @@
 ```c++
-cout << "Hi ^-^" << endl;
+cout << "Kuran = TimerInterupt" << endl;
 ```
 
 <h2 align="center">Github stats :bar_chart:</h2>
